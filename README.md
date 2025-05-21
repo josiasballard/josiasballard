@@ -37,7 +37,7 @@ Full-stack learner building internal tools for **Advanced Electrical Solutions**
 
 ## 🗓 Contribution Graph
 
-![Josias's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=josiasballard&theme=light)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=josiasballard&theme=default)
 
 ---
 
