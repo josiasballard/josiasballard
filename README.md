@@ -38,7 +38,7 @@ Full-stack learner building internal tools for **Advanced Electrical Solutions**
 
 ## 📫 Let’s Connect
 
-[LinkedIn](https://www.linkedin.com/in/josias-ballard)
+[LinkedIn](https://www.linkedin.com/in/josias-ballard-a197b1199)
 [GitHub](https://github.com/josiasballard)
 
 > Built in VS Code | Fueled by **Hopes and Dreams**
