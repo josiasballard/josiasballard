@@ -33,17 +33,12 @@ Full-stack learner building internal tools for **Advanced Electrical Solutions**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josiasballard&layout=compact&theme=default)
 
----
-
-## 🗓 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=josiasballard&theme=default)
 
 ---
 
 ## 📫 Let’s Connect
 
-[LinkedIn](https://www.linkedin.com/in/josiasballard)  
+[LinkedIn](https://www.linkedin.com/in/josias-ballard)
 [GitHub](https://github.com/josiasballard)
 
 > Built in VS Code | Fueled by **Hopes and Dreams**
