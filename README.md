@@ -1,8 +1,8 @@
-# Hi, I’m Josias Ballard
+# Hey, I’m Josias Ballard — aka @josiasballard
 
-### Builder | Developer | Tech Optimizer
+### Builder | Learner | Internal Tools Dev
 
-I'm the guy behind internal tools and systems at **Advanced Electrical Solutions**, where we automate timecards, internal comms, and jobsite media handling.
+Full-stack learner building internal tools for **Advanced Electrical Solutions**. Focused on automation, real ops, and practical dev workflows.
 
 ---
 
@@ -15,26 +15,29 @@ I'm the guy behind internal tools and systems at **Advanced Electrical Solutions
 ## 🚀 Projects
 
 - **[AES App](https://github.com/josiasballard/aes-app)**  
-  Full-stack internal employee portal using React, Node, MySQL
+  Full-stack internal employee portal using React, Node, and MySQL
 
 - **[Media Uploader](https://aes-media-uploader.web.app/)**  
-  Firebase-powered uploader tool for organizing jobsite photos and descriptions
+  Firebase-powered uploader for organizing jobsite photos and descriptions
 
 - **[Azure Static Site](https://github.com/josiasballard/azure-static-site)**  
-  Early experiment with Azure-hosted static web apps
+  Experimenting with Azure-hosted static apps
 
 ---
 
-## 🧠 What I'm Working On
-- Finalizing AES web app frontend/backend integration
-- Automating weekly employee summaries and visual reports
-- Learning cloud infrastructure and cybersecurity fundamentals
+## 📊 GitHub Stats
+
+![Josias's GitHub Stats](https://github-readme-stats.vercel.app/api?username=josiasballard&show_icons=true&hide=prs&hide_rank=true&theme=default)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=josiasballard&theme=default)](https://git.io/streak-stats)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=josiasballard&theme=flat&margin-w=10)
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let’s Connect
 
 [LinkedIn](https://www.linkedin.com/in/josiasballard)  
 [GitHub](https://github.com/josiasballard)
 
-> Built in VS Code | Powered by Hopes and Dreams
+> Built in VS Code | Fueled by **Hopes and Dreams**
