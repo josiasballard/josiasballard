@@ -28,7 +28,7 @@ I'm the guy behind internal tools and systems at **Advanced Electrical Solutions
 ## 🧠 What I'm Working On
 - Finalizing AES web app frontend/backend integration
 - Automating weekly employee summaries and visual reports
-- Learning cloud infra and cybersecurity fundamentals
+- Learning cloud infrastructure and cybersecurity fundamentals
 
 ---
 
