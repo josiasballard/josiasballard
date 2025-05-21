@@ -27,11 +27,17 @@ Full-stack learner building internal tools for **Advanced Electrical Solutions**
 
 ## 📊 GitHub Stats
 
-![Josias's GitHub Stats](https://github-readme-stats.vercel.app/api?username=josiasballard&show_icons=true&hide=prs&hide_rank=true&theme=default)
+![Josias's GitHub Stats](https://github-readme-stats.vercel.app/api?username=josiasballard&show_icons=true&hide_rank=true&theme=default)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=josiasballard&theme=default)](https://git.io/streak-stats)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=josiasballard&theme=flat&margin-w=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josiasballard&layout=compact&theme=default)
+
+---
+
+## 🗓 Contribution Graph
+
+![Josias's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=josiasballard&theme=light)
 
 ---
 
