@@ -1,4 +1,4 @@
-# Hey, I’m Josias Ballard — aka @josiasballard
+# Hey, I’m Josias Ballard
 
 ### Builder | Learner | Internal Tools Dev
 
