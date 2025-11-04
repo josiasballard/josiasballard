@@ -7,8 +7,8 @@ I build practical tools for small businesses and stand up real infrastructure in
 ---
 
 ## 🔥 What I’m Focused On (Right Now)
-- **Midco Diving – Two-Site Virtual Infrastructure (in progress)**  
-  Hyper-V lab modeling HQ (Rapid City) + Branch (Peoria): pfSense VLANs, AD DS/DNS/DHCP, File Server with NTFS perms, VoIP (Allworx-style via FreePBX), Intune/Flyve MDM, site-to-site VPN, and documentation.  
+- **Two-Site Virtual Infrastructure (in progress)**  
+  Hyper-V lab modeling HQ (Rapid City) + Branch (Dallas): pfSense VLANs, AD DS/DNS/DHCP, File Server with NTFS perms, VoIP (Allworx-style via FreePBX), Intune/Flyve MDM, site-to-site VPN, and documentation.  
   _Repo: coming soon — will include topology diagram, GPO exports, scans, and an audit report._
 
 - **CompTIA:** ✅ **A+** • studying **Network+** → **Security+**
@@ -21,20 +21,6 @@ I build practical tools for small businesses and stand up real infrastructure in
 **Security:** Hardening (GPO/Defender), BitLocker, least privilege, basic vuln scans (nmap)  
 **Dev/Tools:** React, Node.js/Express, PostgreSQL/MySQL, Firebase, PowerShell, Git/GitHub
 
----
-
-## 🏗️ Selected Projects
-
-- **AES App** — Internal employee portal (React + Node)  
-  Role-based dashboards, auth, and real-world ops workflows.  
-  ➜ https://github.com/josiasballard/aes-app
-
-- **Media Uploader** — Jobsite photo/document pipeline (Firebase)  
-  Drag-drop uploads, tagging, and shareable links for field teams.  
-  ➜ https://aes-media-uploader.web.app/
-
-- **Azure Static Site (Playground)** — Infra experiments & deployment trials  
-  ➜ https://github.com/josiasballard/azure-static-site
 
 ---
 
